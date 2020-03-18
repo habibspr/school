@@ -1,0 +1,4 @@
+[16-Feb-2020 15:10:51 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/id_card_setup/index.php on line 39
+[16-Feb-2020 15:10:51 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/lyceumsy/school.lyceumsystems.com/id_card_setup/index.php on line 39
+[16-Feb-2020 15:11:13 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/id_card_setup/index.php on line 39
+[16-Feb-2020 15:11:13 Asia/Dhaka] PHP Warning:  Invalid argument supplied for foreach() in /home/lyceumsy/school.lyceumsystems.com/id_card_setup/index.php on line 39

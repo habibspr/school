@@ -1,0 +1,86 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+.text-center {
+	text-align: center !important;
+}
+body {
+	width: 54mm !important;
+	height: 86mm !important;
+	font-family: sans-serif;
+	font-size: 8px;
+}
+img {
+	width: 100%;
+}
+p {
+	margin: 5px 0;
+}
+form {
+	margin: 20px 0;
+}
+select {
+	width: 100%;
+    padding: 5px 10px;
+    margin: 5px 0;
+}
+input[type="submit"]{
+	padding: 10px 20px;
+	background: #000;
+	border: none;
+	color: #fff; 
+	cursor: pointer;
+}
+.card {
+	width: 54mm !important;
+	height: 82mm !important;
+	/*border: 1px solid #ccc;*/
+	page-break-after: always;
+	box-sizing: border-box;
+}
+.card .header {
+	margin-top: 10px;
+}
+.card .header img {
+    width: auto;
+	height: 50px;
+}
+.card .header h5 {
+	font-weight: bold;
+	font-size: 15px;
+	color: #005679;
+}
+.card .main-content {}
+.card .main-content h6.identity {
+	font-size: 10px;
+	color: red;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.card .main-content img.student-image {
+	height: 90px;
+	width: auto;
+}
+.card .main-content p.name {
+	font-size: 10px;
+	font-weight: bold;
+	color: green;
+}
+.card .main-content img.signature {
+	height: 20px;
+	width: auto;
+	margin-bottom: -5px;
+	margin-top: 0px;
+}
+.card .main-content p.head {
+	margin-bottom: 1px;
+}
+.card .footer .website {
+	font-weight: bold;
+	color: #fff;
+	background: red;
+	padding: 2px;
+}

@@ -1,0 +1,66 @@
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 13:15:27 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 13:15:38 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 13:15:39 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 13:15:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  include(/aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  include(/aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  include(): Failed opening '/aagsn/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 07:17:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  include(): Failed opening 'aagsn/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 07:17:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  include(): Failed opening 'aagsn/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 07:17:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  include(aagsn/header.php): failed to open stream: No such file or directory in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  include(): Failed opening 'aagsn/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 1
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 07:17:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 20
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 21
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 31
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 32
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 42
+[03-Feb-2020 13:17:45 Asia/Dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/lyceumsy/school.lyceumsystems.com/roll_setup/index.php on line 43

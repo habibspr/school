@@ -1,0 +1,64 @@
+header {
+    padding: 20px;
+    background: darkgreen;
+    color: #fff;
+}
+section.main {
+    padding: 00px 0 00px 0;
+}
+.main form {
+    display: inline-block;
+
+	margin: 0 auto;
+
+	transform: translateX(-50%);
+
+	position: relative;
+
+	left: 50%;
+}
+.payment_item {
+	padding: 20px 0;
+	position: relative;
+}
+.payment_item .options_field {}
+.delete_input {
+	display: flex;
+	align-items: center;
+	color: red;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+/*Payment Details Page*/
+
+.header_row {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.header_row .header_item {}
+.payment_header_logo {
+	margin-right: 0px;
+}
+.flex_row{
+	display: flex;
+}
+.flex-item:first-child {
+	flex: 2;
+	display: flex;
+	align-items: center;
+	background: #eaeaea;
+	padding: 5px 0px;
+}
+.flex-item:last-child{
+	flex: 3;
+	display: flex;
+	align-items: center;
+}
+.flex-item:last-child table{
+	margin: 0;
+}
+td, th {
+	padding: 0px 10px !important;
+}

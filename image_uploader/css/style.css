@@ -1,0 +1,25 @@
+header {
+	background: #066839;
+}
+.logo-section {}
+.logo-section img {
+	width: 100px;
+}
+.back-btn-section {
+	margin: auto 0;
+}
+.back-btn-section a {
+	float: right;
+	overflow: hidden;
+}
+.form-section {
+	padding: 10px 20px;
+	overflow: hidden;
+}
+.form-section .input-group {
+	padding: 10px 0;
+}
+.form-container {
+	width: 60%;
+	margin: 0 auto;
+}

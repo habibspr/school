@@ -1,0 +1,5 @@
+[13-Mar-2020 14:07:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/lyceumsy/school.lyceumsystems.com/student_leave/leave_select.php on line 65
+[13-Mar-2020 14:14:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/lyceumsy/school.lyceumsystems.com/student_leave/leave_select.php on line 57
+[13-Mar-2020 14:14:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lyceumsy/school.lyceumsystems.com/student_leave/leave_select.php on line 66
+[13-Mar-2020 14:16:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lyceumsy/school.lyceumsystems.com/student_leave/leave_select.php on line 66
+[14-Mar-2020 02:35:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lyceumsy/school.lyceumsystems.com/student_leave/leave_select.php on line 69
